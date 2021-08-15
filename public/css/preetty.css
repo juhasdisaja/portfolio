@@ -1,0 +1,7 @@
+.portfolio-item .portfolio-image {
+    overflow: hidden;
+    display: block;
+    position: relative;
+    border-radius: 0.5rem;
+}
+
