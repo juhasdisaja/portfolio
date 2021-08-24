@@ -732,7 +732,7 @@ header
 }
 
 @media (min-width: 767px) {
-  .header-area .main-nav .nav {
+  .header-area .main-nav .nav:active {
     display: flex !important;
   }
 }
