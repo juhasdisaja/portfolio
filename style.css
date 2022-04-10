@@ -5,7 +5,8 @@ section {
 .jumbotron {
   padding-top: 6rem;
   background-image: url("img/5585664.jpg");
-  background-size: 100%; 
+  background-size: cover;
+/*   background-size: 100%;  */
   background-position: center;
   background-repeat: no-repeat;
 }
